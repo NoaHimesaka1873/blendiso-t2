@@ -1,5 +1,6 @@
 alsa-utils
-amd-ucode
+apple-bcm-firmware
+apple-t2-audio-config
 arch-install-scripts
 archinstall
 b43-fwcutter
@@ -47,7 +48,7 @@ less
 #lftp
 libfido2
 libusb-compat
-linux
+linux-t2
 linux-atm
 linux-firmware
 linux-firmware-marvell
